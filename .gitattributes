@@ -1,1 +1,6 @@
 path/to/largefile filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+Atharve filter=lfs diff=lfs merge=lfs -text
+Enterprise filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
